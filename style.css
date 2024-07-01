@@ -1,0 +1,138 @@
+body {
+  font-family: "DM Sans";
+  padding-bottom: 5px;
+}
+.brend {
+  font-weight: 700;
+  font-size: 24px;
+  color: #3d00b7;
+}
+.napling {
+  font-weight: 500;
+  font-size: 1rem;
+}
+.nbuton,
+.nbuton:hover,
+.nbuton:focus,
+.nbuton:active {
+  padding: 10px 20px;
+  border: 2px solid #3d00b7;
+  font-weight: 500;
+  background: #3d00b7;
+  border-radius: 2rem;
+  color: #fff;
+}
+.nbuton:last-child {
+  background: #fff;
+  color: #3d00b7;
+}
+#hd1 {
+  font-weight: 900;
+  width: 40vw;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+#hd5 {
+  color: #4a4a4a;
+  width: 30vw;
+}
+#buton1,
+#buton1:hover {
+  margin-top: 1rem;
+  background: #3d00b7;
+  padding: 20px 30px;
+  color: #fff;
+  border-radius: 50px;
+  font-weight: 800;
+}
+.subtt {
+  font-size: 3rem;
+  margin-bottom: 0;
+  font-weight: 900;
+}
+section {
+  margin-bottom: 5rem;
+}
+.logos {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+.subb:first-child {
+  color: #4a4a4a;
+  margin-top: 1rem;
+}
+.subb {
+  font-weight: 500;
+  color: #4a4a4a;
+  margin: 5px 0 0 0;
+}
+.inputes input {
+  border-radius: 20px;
+}
+
+.inputes button,
+.inputes button:hover {
+  color: #4a4a4a;
+  background: #fff;
+  border: 1px rgb(230, 230, 230) solid;
+  border-radius: 20px;
+}
+#nft1 {
+  width: 15rem;
+  object-fit: contain;
+  margin-right: 5px;
+}
+#nft4,
+#nft5,
+#nft6 {
+  width: 85%;
+  object-fit: contain;
+}
+
+.bolde {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+#nfn {
+  width: 25rem;
+  object-position: center;
+  object-fit: cover;
+}
+
+#buton11 {
+  background: #3d00b7;
+  padding: 20px 30px;
+  color: #fff;
+  border-radius: 50px;
+  font-weight: 800;
+}
+.morbtn {
+  color: #292929;
+  font-weight: 600;
+}
+.morbtn:first-child,
+.morbtn:first-child:hover {
+  color: #fff;
+  background: #3d00b7;
+  padding: 8px 22px;
+  border-radius: 20px;
+  font-weight: 400;
+}
+.morbtn:last-child,
+.morbtn:last-child:hover {
+  color: #3d00b7;
+  padding: 8px 22px;
+}
+.timlef {
+  margin: 0 0 0 1rem;
+  font-weight: 600;
+  color: #3d00b7;
+  font-size: 14px;
+}
+#ples {
+  font-size: 18px;
+  color: #3d00b7;
+  font-weight: 600;
+  margin: 0;
+}
